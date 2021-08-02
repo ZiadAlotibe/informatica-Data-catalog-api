@@ -1,0 +1,5 @@
+version: '3.8'
+
+services:
+  catalog-api:
+    image: ghcr.io/informatica-na-presales-ops/informatica-catalog-api
